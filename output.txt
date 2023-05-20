@@ -1,0 +1,9 @@
+1 2 3 4 
+
+panjang = 10
+lebar = 12
+ luas = 10 x 12 = 120
+
+alas = 10
+tinggi = 10
+luas = 0.5 x 10 x 10 = 50.0
